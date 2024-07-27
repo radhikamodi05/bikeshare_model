@@ -1,6 +1,6 @@
 FROM python:3.10
 
-ADD . .
+ADD /bikeshare_model_api / bikeshare_model_api/
 
 WORKDIR /bikeshare_model_api
 
